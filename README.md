@@ -1,4 +1,4 @@
-# Udacity Deep Reinforcment Learning Nanodegree - Project 1 - Continuous Control  
+# Udacity Deep Reinforcment Learning Nanodegree - Project 2 - Continuous Control  
 
 This github repository contains a possible solution for the scond project of the Udacity Deep Reinforcment Learning Nanodegree program. It is based on a Unity environment. The solution described in this repository is based on DDPG (Deep Deterministic Policy Gradient) architecture.
 
